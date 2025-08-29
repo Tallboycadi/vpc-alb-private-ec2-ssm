@@ -44,6 +44,7 @@ Terminate ASG → delete ALB & target group → delete endpoints → detach/dele
 
 ##  Screenshots
 
+
 **ALB success page**  
 ![ALB Success](docs/screenshots/alb-success.png)
 
@@ -52,6 +53,7 @@ Terminate ASG → delete ALB & target group → delete endpoints → detach/dele
 
 **SSM Session Manager**  
 ![SSM Session](docs/screenshots/ssm-session.png)
+
 
 
 ---
