@@ -42,6 +42,18 @@ See [`portfolio-post.md`](portfolio-post.md) for a copy-ready LinkedIn post.
 ##  Cleanup
 Terminate ASG → delete ALB & target group → delete endpoints → detach/delete IGW → delete subnets/route tables → delete VPC → delete IAM role if only for this demo.
 
+##  Screenshots
+
+**ALB success page**  
+![ALB Success](docs/screenshots/alb-success.png)
+
+**Target Group health check**  
+![Target Group](docs/screenshots/target-group-healthy.png)
+
+**SSM Session Manager**  
+![SSM Session](docs/screenshots/ssm-session.png)
+
+
 ---
 
 **Author:** Cliffton C. Benford  
