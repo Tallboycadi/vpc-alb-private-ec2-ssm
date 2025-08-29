@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Python venv
+.venv/
+__pycache__/
+
+# Draw.io backups
+*.bkp
+*.tmp
+
+# VS Code
+.vscode/
